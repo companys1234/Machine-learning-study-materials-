@@ -46,3 +46,6 @@ various materials on python, mathematics, etc. for studying machine learning.р�
     * ЗАДАЧНИКИ:
     * Linear Algebra Problem Book - Halmos.(https://thelib.net/57418-linear-algebra-problem-book.html)
     * Schaum’s Outline of Linear Algebra.()
+    * КУРСЫ:
+    * Introduction to Linear Algebra.(https://www.coursera.org/learn/introduction-to-linear-algebra)
+    * math in machine learning - linear algebra.(https://www.coursera.org/learn/linear-algebra-machine-learning)
