@@ -73,7 +73,16 @@ various materials on python, mathematics, etc. for studying machine learning.р�
     * «Математический анализ» от «Лекториума».(https://www.lektorium.tv/matematicheskij-analiz)
     * ENG
     * КНИГИ:
-    * Stewart J. - Calculus
-    * Spivak M. - Calculus
-    * 
+    * Stewart J. - Calculus.(https://vk.com/wall-102018175_88942?ysclid=m7yrndclt4302657902)
+    * Spivak M. - Calculus.(https://vk.com/wall-186208863_248?ysclid=m7yrpm5jsa394846595)
+    * Rudin W. - Principles of Mathematical Analysis.(https://fangspectr.github.io/rudin.pdf)
+    * ЗАДАЧНИКИ:
+    * Schaum's 3,000 Solved Problems in Calculus.(https://www.amazon.com/dp/0071635343)
+    * ВИДЕОКУРСЫ И ЛЕКЦИИ:
+    * Calculus 1 - Full College Course.(https://www.youtube.com/watch?v=HfACrKJ_Y2w)
+    * Essence of calculus.(https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+    * Introductory Calculus: Oxford Mathematics 1st Year Student Lecture.(https://www.youtube.com/watch?v=I3GWzXRectE)
+    * Calculus Visualized - by Dennis F Davis.(https://www.youtube.com/watch?v=MO-AExWdl4Q)
+    * КУРСЫ:
+    * Calculus 1.(https://www.khanacademy.org/math/calculus-1)
     
