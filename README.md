@@ -49,3 +49,31 @@ various materials on python, mathematics, etc. for studying machine learning.р�
     * КУРСЫ:
     * Introduction to Linear Algebra.(https://www.coursera.org/learn/introduction-to-linear-algebra)
     * math in machine learning - linear algebra.(https://www.coursera.org/learn/linear-algebra-machine-learning)
+    * ВИДЕОКУРСЫ И ЛЕКЦИИ:
+    * Linear Algebra - Full College Course.(https://www.youtube.com/watch?v=JnTa9XtvmfI)
+    * MIT 18.06 Linear Algebra, Spring 2005.(https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
+    * Vectors | Chapter 1, Essence of linear algebra.(https://www.youtube.com/watch?v=fNk_zzaMoSs)
+  * Математический анализ
+    * RUS
+    * КНИГИ:
+    * Зорич В.А. - Математический анализ (2 части).(1 том - https://matan.math.msu.su/media/uploads/2020/03/V.A.Zorich-Kniga-I-10-izdanie-Corr.pdf)(2 том-https://matan.math.msu.su/media/uploads/2020/03/V.A.Zorich-Kniga-II-9-izdanie-Temp-Corr-3.pdf)
+    * Фихтенгольц Г.М. - Курс дифференциального и интегрального исчисления (3 тома)(1 том - http://www.physics.gov.az/book_K/Fixt1.pdf)(2 том -https://ikfia.ysn.ru/wp-content/uploads/2018/01/Fihtengolc_t2_1964ru.pdf)
+    * Кудрявцев Л.Д. - Математический анализ.(https://matan.math.msu.su/media/uploads/2022/02/Kudryavtsev-N.L.-Lektsii-po-matematicheskomu-analizu-CHast-I-2021.pdf)
+    * Ильин В.А., Позняк Е.Г. - Основы математического анализа.(http://vk.com/wall-49014451_7875)
+    * ЗАДАЧНИКИ:
+    * Демидович Б.П. - Сборник задач и упражнений по математическому анализу.(https://kvm.gubkin.ru/pub/uok/Demidovich.pdf)
+    * ВИДЕОКУРСЫ И ЛЕКЦИИ:
+    * Суть матанализа, Глава 1.(https://www.youtube.com/watch?v=qd0rzmSGPWg&t=65s)
+    * Математический анализ (a.k.a. матан).(https://www.youtube.com/playlist?list=PL3BJnp-dNqazNc11qgguXNcJwCMqwK5Yv)
+    * Садовничая И.В. | Лекция 1 по Математическому анализу, 2024, осень | ВМК МГУ.(https://www.youtube.com/watch?v=JWPstFGjI-g)
+    * Математический анализ 1. Лекция 1. Медведев В. О.(https://www.youtube.com/watch?v=Xba_xLn3_HQ)
+    * КУРСЫ:
+    * Математический анализ (часть 1).(https://stepik.org/course/716/promo)
+    * Введение в математический анализ.(https://stepik.org/course/95/promo)
+    * «Математический анализ» от «Лекториума».(https://www.lektorium.tv/matematicheskij-analiz)
+    * ENG
+    * КНИГИ:
+    * Stewart J. - Calculus
+    * Spivak M. - Calculus
+    * 
+    
